@@ -1,0 +1,4 @@
+06-Mar-2023 12:13:20
+Eigenvalue no   1 =   0.969089
+Eigenvalue no   2 =   0.950000
+Eigenvalue no   3 =   1.046490

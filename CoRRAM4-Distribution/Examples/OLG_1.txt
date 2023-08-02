@@ -1,0 +1,20 @@
+
+06-Mar-2023 12:30:00
+
+Analytical second moments.
+
+Filter: HP
+Filter weight=   100
+
+
+     Output  1.87  1.00  1.00  0.44
+Consumption  0.53  0.98  0.96  0.47
+ Investment  6.07  1.00  1.00  0.43
+      Hours  0.78  1.00  1.00  0.43
+  Real Wage  1.09  1.00  0.99  0.44
+
+Column 1 : Variable name
+Column 2 : Standard deviation
+Column 3 : Correlation with variable Output
+Column 4 : Correlation with variable Hours
+Column 5 : First order autocorrelation

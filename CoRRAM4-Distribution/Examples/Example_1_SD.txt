@@ -1,0 +1,18 @@
+
+06-Mar-2023 12:22:15
+
+Second moments from   500 simulations of length =   120 and burnin =    50.
+Bounds were not checked
+Filter: HP
+Filter weight=  1600
+Quadratic policy functions were used.
+
+     Output  1.16  1.00  0.68
+Consumption  0.56  0.99  0.70
+ Investment  3.06  1.00  0.68
+      Hours  0.43  0.99  0.68
+
+Column 1 : Variable name
+Column 2 : Standard deviation
+Column 3 : Correlation with variable Output
+Column 4 : First order autocorrelation
